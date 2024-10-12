@@ -5,7 +5,8 @@
 
 В бота подаётся название города
 (задание пропало как я нажал далее, так что надеюсь я правильно запомнил)
-может не работать на ru ip: aiohttp.client_exceptions.ClientOSError: [WinError 121] Превышен таймаут семафора
+
+может не работать на ru ip: ```aiohttp.client_exceptions.ClientOSError: [WinError 121] Превышен таймаут семафора ```
 
 ```pip install -r requirements.txt```
 
